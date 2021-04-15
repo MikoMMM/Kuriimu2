@@ -514,7 +514,13 @@ namespace plugin_mt_framework.Archives
             [0x342366F0] = ".atk",
             [0x76042FD2] = ".eco",
             [0x052CCE4E] = ".mef",
-            [0x55E21D03] = ".emp"
+            [0x55E21D03] = ".emp",
+	    [0x619CF7E7] = ".plt",
+	    [0x398BD2C5] = ".otm",
+	    [0x2EA515BF] = ".mif",
+	    [0x7C067B17] = ".wpd",
+	    [0x03AA2277] = ".lma"
+	    
         };
     }
 }
